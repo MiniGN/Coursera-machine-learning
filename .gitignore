@@ -1,0 +1,7 @@
+course3/week1/fsq.zip
+course3/week1/fsq/umn_foursquare_datasets/checkins.dat
+*.DS_Store
+course3/week1/fsq/umn_foursquare_datasets/ratings.dat
+course3/week1/fsq/umn_foursquare_datasets/venues.dat
+course3/week1/fsq/umn_foursquare_datasets/socialgraph.dat
+course3/week1/fsq/umn_foursquare_datasets/users.dat
