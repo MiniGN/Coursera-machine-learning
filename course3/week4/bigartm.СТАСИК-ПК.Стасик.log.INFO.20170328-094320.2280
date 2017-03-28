@@ -1,0 +1,4 @@
+Log file created at: 2017/03/28 09:43:20
+Running on machine: —“¿—» -œ 
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0328 09:43:20.146072 11300 c_interface.cc:102] Logging enabled to .

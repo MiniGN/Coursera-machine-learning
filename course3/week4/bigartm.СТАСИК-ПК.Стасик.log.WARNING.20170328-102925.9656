@@ -1,0 +1,48 @@
+Log file created at: 2017/03/28 10:29:25
+Running on machine: —“¿—» -œ 
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0328 10:29:25.068271  9212 check_messages.h:966] ThetaMatrix.topic_name_size is empty
+W0328 10:29:25.070272  9212 check_messages.h:966] ThetaMatrix.topic_name_size is empty
+W0328 10:32:06.196012  9212 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0328 10:33:19.335973  9212 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0328 11:16:49.799484  1292 helpers.cc:211] File already exists: postnauka_batches\aaaaaa.batch
+W0328 11:16:49.840555  6836 helpers.cc:211] File already exists: postnauka_batches\aaaaab.batch
+W0328 11:16:49.856559  5052 helpers.cc:211] File already exists: postnauka_batches\aaaaac.batch
+W0328 11:16:49.890564  6048 helpers.cc:211] File already exists: postnauka_batches\aaaaad.batch
+W0328 11:16:49.916678  1292 helpers.cc:211] File already exists: postnauka_batches\aaaaae.batch
+W0328 11:16:49.965031  6836 helpers.cc:211] File already exists: postnauka_batches\aaaaaf.batch
+W0328 11:16:50.021807  5052 helpers.cc:211] File already exists: postnauka_batches\aaaaag.batch
+W0328 11:16:50.031808  6048 helpers.cc:211] File already exists: postnauka_batches\aaaaah.batch
+W0328 11:16:50.045809  1292 helpers.cc:211] File already exists: postnauka_batches\aaaaai.batch
+W0328 11:16:50.193837  6836 helpers.cc:211] File already exists: postnauka_batches\aaaaaj.batch
+W0328 11:16:50.487891  5052 helpers.cc:211] File already exists: postnauka_batches\aaaaak.batch
+W0328 11:16:50.509896  1292 helpers.cc:211] File already exists: postnauka_batches\aaaaal.batch
+W0328 11:16:50.595912  6836 helpers.cc:211] File already exists: postnauka_batches\aaaaan.batch
+W0328 11:16:50.615914  6048 helpers.cc:211] File already exists: postnauka_batches\aaaaam.batch
+W0328 11:16:50.641918  6048 helpers.cc:211] File already exists: postnauka_batches\aaaaar.batch
+W0328 11:16:50.672763  6836 helpers.cc:211] File already exists: postnauka_batches\aaaaaq.batch
+W0328 11:16:50.804895  5052 helpers.cc:211] File already exists: postnauka_batches\aaaaao.batch
+W0328 11:16:50.822899  1292 helpers.cc:211] File already exists: postnauka_batches\aaaaap.batch
+W0328 11:18:19.962977  9212 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0328 11:23:12.800532  9212 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0328 11:26:44.802480  5052 helpers.cc:211] File already exists: postnauka_batches\aaaaaa.batch
+W0328 11:26:44.847510  1292 helpers.cc:211] File already exists: postnauka_batches\aaaaab.batch
+W0328 11:26:44.855516  6836 helpers.cc:211] File already exists: postnauka_batches\aaaaac.batch
+W0328 11:26:44.888154  6048 helpers.cc:211] File already exists: postnauka_batches\aaaaad.batch
+W0328 11:26:44.896155  5052 helpers.cc:211] File already exists: postnauka_batches\aaaaae.batch
+W0328 11:26:44.954166  1292 helpers.cc:211] File already exists: postnauka_batches\aaaaaf.batch
+W0328 11:26:45.007475  6836 helpers.cc:211] File already exists: postnauka_batches\aaaaag.batch
+W0328 11:26:45.017478  5052 helpers.cc:211] File already exists: postnauka_batches\aaaaai.batch
+W0328 11:26:45.027479  6048 helpers.cc:211] File already exists: postnauka_batches\aaaaah.batch
+W0328 11:26:45.201512  1292 helpers.cc:211] File already exists: postnauka_batches\aaaaaj.batch
+W0328 11:26:45.481564  6836 helpers.cc:211] File already exists: postnauka_batches\aaaaak.batch
+W0328 11:26:45.501567  5052 helpers.cc:211] File already exists: postnauka_batches\aaaaal.batch
+W0328 11:26:45.565579  6048 helpers.cc:211] File already exists: postnauka_batches\aaaaam.batch
+W0328 11:26:45.641779  1292 helpers.cc:211] File already exists: postnauka_batches\aaaaan.batch
+W0328 11:26:45.647781  6048 helpers.cc:211] File already exists: postnauka_batches\aaaaaq.batch
+W0328 11:26:45.666795  6048 helpers.cc:211] File already exists: postnauka_batches\aaaaar.batch
+W0328 11:26:45.780061  5052 helpers.cc:211] File already exists: postnauka_batches\aaaaap.batch
+W0328 11:26:45.792340  6836 helpers.cc:211] File already exists: postnauka_batches\aaaaao.batch
+W0328 11:29:20.039475  9212 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0328 11:35:12.300231  9212 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0328 11:36:17.682027  9212 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;

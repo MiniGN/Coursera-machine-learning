@@ -1,0 +1,15 @@
+Log file created at: 2017/03/28 09:43:44
+Running on machine: —“¿—» -œ 
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0328 09:43:44.824038  7476 helpers.cc:211] File already exists: school_batches\aaaaab.batch
+W0328 09:43:44.836040  7516 helpers.cc:211] File already exists: school_batches\aaaaaa.batch
+W0328 09:43:44.848042  4748 helpers.cc:211] File already exists: school_batches\aaaaac.batch
+W0328 09:43:44.868372   880 helpers.cc:211] File already exists: school_batches\aaaaad.batch
+W0328 09:43:44.953647  7476 helpers.cc:211] File already exists: school_batches\aaaaae.batch
+W0328 09:46:39.776037  6804 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 476 vs 0 vs 476 vs 0;
+W0328 09:46:40.819610  3240 check_messages.h:966] Inconsistent fields size in ThetaMatrix: 476 vs 0 vs 476 vs 0;
+W0328 10:30:09.663744  4284 helpers.cc:211] File already exists: school_batches\aaaaaa.batch
+W0328 10:30:09.705615  4352 helpers.cc:211] File already exists: school_batches\aaaaab.batch
+W0328 10:30:09.719616  2644 helpers.cc:211] File already exists: school_batches\aaaaac.batch
+W0328 10:30:09.729619  7984 helpers.cc:211] File already exists: school_batches\aaaaad.batch
+W0328 10:30:09.787628  4284 helpers.cc:211] File already exists: school_batches\aaaaae.batch
