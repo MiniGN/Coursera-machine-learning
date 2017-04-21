@@ -2,3 +2,26 @@ Log file created at: 2017/03/28 09:43:20
 Running on machine: —“¿—» -œ 
 Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
 I0328 09:43:20.146072 11300 c_interface.cc:102] Logging enabled to .
+I0328 09:43:20.475334 11300 c_interface.cc:246] Creating MasterModel (id=1)...
+I0328 09:43:20.577828 11300 collection_parser.cc:534] CollectionParserConfig.num_threads is automatically set to 4
+I0328 09:43:21.187233 11300 c_interface.cc:345] Pass 29dcd863-ff74-46fe-b3e6-94c3c74a6f60 to void (__cdecl artm::core::MasterComponent::*)(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const & __ptr64) __ptr64
+I0328 09:43:21.212249 11300 c_interface.cc:359] Pass GatherDictionaryArgs: dictionary_target_name=29dcd863-ff74-46fe-b3e6-94c3c74a6f60, data_path=school_batches, symmetric_cooc_values=0 to void (__cdecl artm::core::MasterComponent::*)(class artm::GatherDictionaryArgs const & __ptr64) __ptr64
+I0328 09:43:21.213249 11300 dictionary_operations.cc:235] Found 5 batches in 'school_batches' folder
+I0328 09:43:21.281294 11300 dictionary_operations.cc:292] Find 16099 unique tokens in 476 items
+I0328 09:43:21.320323 11300 c_interface.cc:246] Creating MasterModel (id=2)...
+I0328 09:43:21.322322 11300 c_interface.cc:345] Pass 07a798c4-8957-4bd2-9164-af014bb1f246 to void (__cdecl artm::core::MasterComponent::*)(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const & __ptr64) __ptr64
+I0328 09:43:21.322322 11300 c_interface.cc:359] Pass GatherDictionaryArgs: dictionary_target_name=07a798c4-8957-4bd2-9164-af014bb1f246, data_path=school_batches, symmetric_cooc_values=0 to void (__cdecl artm::core::MasterComponent::*)(class artm::GatherDictionaryArgs const & __ptr64) __ptr64
+I0328 09:43:21.323323 11300 dictionary_operations.cc:235] Found 5 batches in 'school_batches' folder
+I0328 09:43:21.368396 11300 dictionary_operations.cc:292] Find 16099 unique tokens in 476 items
+I0328 09:43:21.399421 11300 c_interface.cc:345] Pass 29dcd863-ff74-46fe-b3e6-94c3c74a6f60 to void (__cdecl artm::core::MasterComponent::*)(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const & __ptr64) __ptr64
+I0328 09:43:21.424414 11300 c_interface.cc:309] Disposing MasterComponent (id=1)...
+I0328 09:43:21.619523 11300 instance.cc:380] MasterModelConfig.processors_count is automatically set to 4
+I0328 09:43:21.619523 11300 c_interface.cc:246] Creating MasterModel (id=3)...
+I0328 09:43:21.646538  2088 processor.cc:643] Processor thread started
+I0328 09:43:21.646538   228 processor.cc:643] Processor thread started
+I0328 09:43:21.646538  1488 processor.cc:643] Processor thread started
+I0328 09:43:21.646538  3600 processor.cc:643] Processor thread started
+I0328 09:43:21.667551  2088 processor.cc:659] No data in processing queue, waiting...
+I0328 09:43:21.667551  1488 processor.cc:659] No data in processing queue, waiting...
+I0328 09:43:21.667551   228 processor.cc:659] No data in processing queue, waiting...
+I0328 09:43:21.667551  3600 processor.cc:659] No data in processing queue, waiting...
