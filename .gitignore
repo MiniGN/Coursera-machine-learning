@@ -8,3 +8,8 @@ course3/week1/fsq/umn_foursquare_datasets/users.dat
 course3/week1/checkins.csv
 course2/week3/sklearn.case_part1.ipynb
 course4/week1/.ipynb_checkpoints/stat.mean_conf_int-checkpoint.ipynb
+course5/week2/train/04121.jpg
+course5/week2/test/04190.jpg
+*.jpg
+course5/week2/vgg16_weights.npz
+course5/week2/__pycache__/imagenet_classes.cpython-35.pyc
