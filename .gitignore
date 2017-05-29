@@ -13,3 +13,5 @@ course5/week2/test/04190.jpg
 *.jpg
 course5/week2/vgg16_weights.npz
 course5/week2/__pycache__/imagenet_classes.cpython-35.pyc
+final/project_taxi/yellow_tripdata_2016-01.csv
+final/project_taxi/yellow_tripdata_2016-05.csv
